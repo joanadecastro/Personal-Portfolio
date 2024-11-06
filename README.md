@@ -2,6 +2,8 @@
 
 Welcome to the repository of my personal portfolio site! This project was created to showcase my work, skills and professional career. The platform was developed using HTML, CSS and JavaScript, and has a responsive design that allows for a good browsing experience on mobile and desktop devices.
 
+Check the link:  https://joanacastrostudio.com/
+
 
 ## 📄 Description 
 This portfolio site displays a collection of my projects and experiences, including:
@@ -62,3 +64,19 @@ This project is built using the following frontend technologies and tools:
 ## 📦 Installation
 
 To run the project locally, follow these steps:
+
+### 1. Clone the Repository:
+```bash
+   git clone https://github.com/joanadecastro/Personal-Portfolio.git
+```
+
+### 2. Navigate to the project directory:
+```bash
+   cd Personal-Portfolio
+```
+
+### 3. Open the index.html file in your preferred browser to view the portfolio.
+
+
+
+
