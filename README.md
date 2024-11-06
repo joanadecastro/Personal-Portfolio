@@ -1,3 +1,6 @@
+ ![Status do Projeto](https://img.shields.io/badge/status-concluido%20-midigreen)
+
+
 # Personal Portfolio
 
 Welcome to the repository of my personal portfolio site! This project was created to showcase my work, skills and professional career. The platform was developed using HTML, CSS and JavaScript, and has a responsive design that allows for a good browsing experience on mobile and desktop devices.
@@ -11,11 +14,6 @@ This portfolio site displays a collection of my projects and experiences, includ
 - Projects: Gallery with the main projects I've developed, each with a description, technologies used and links to view or repository.
 - Skills: Section with my main technical skills and programming languages.
 - Contact: Contact form to make it easier to send messages.
-
-
-## 🚧 Project status
-
-![Status do Projeto](https://img.shields.io/badge/status-concluido%20-midigreen)
 
 
 ## 🎬 Demonstration
